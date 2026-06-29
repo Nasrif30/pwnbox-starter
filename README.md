@@ -41,7 +41,7 @@ Pwnbox-Starter is designed to eliminate the repetitive setup phase of penetratio
 - **Graphical File Selection:** Type `browse` directly in the CLI to launch a native OS file-picker dialog (supports Windows Forms, macOS osascript, and Linux zenity) for effortless VPN profile selection.
 - **TMUX Integration:** Instantly spins up a customized 4-window terminal multiplexer session tailored for hacking (`recon`, `exploit`, `shell`, `root`). If your connection drops, your shells and scans remain persistent in the background.
 - **Interactive Report Generation:** Prompts the user for target metadata (OS, Difficulty, Initial Notes) and automatically builds a pre-formatted `report.md` template for documenting vulnerabilities, flags, and write-ups.
-- **Cross-Platform Compatibility:** Designed natively for Linux (Kali/Parrot) and macOS. For Windows users, this tool runs perfectly inside **WSL (Windows Subsystem for Linux)**, seamlessly bridging your Windows host GUI and downloads folder with your Linux hacking tools.
+- **Cross-Platform Compatibility:** Built natively for Unix-based environments, meaning it runs flawlessly out-of-the-box on both **Linux (Kali/Parrot)** and **macOS**. For Windows users, this tool runs perfectly inside **WSL (Windows Subsystem for Linux)**, seamlessly bridging your Windows host GUI and downloads folder with your Linux hacking tools.
 
 ---
 
