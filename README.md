@@ -2,13 +2,21 @@
 
 > Pwnbox-Starter is a cross-platform Go CLI utility that automates CTF and penetration testing workflows. It instantly scaffolds organized workspace directories, auto-discovers OpenVPN profiles, launches predefined TMUX hacking environments, and generates interactive Markdown report templates. Perfect for HackTheBox, TryHackMe, and Bug Bounties.
 
+
+
 <img width="692" height="650" alt="Screenshot 2026-06-30 041626" src="https://github.com/user-attachments/assets/d824de6c-a1ae-46a0-8845-3f7f9e3511b3" />
+
+
 
 
 <img width="717" height="516" alt="Screenshot 2026-06-30 042255" src="https://github.com/user-attachments/assets/ceb758cb-c4be-4381-9085-ede4be8c672c" />
 
 
+
+
 <img width="1905" height="747" alt="Screenshot 2026-06-30 040319" src="https://github.com/user-attachments/assets/48826f59-95c1-4a4f-bacc-c4fcbe4729a6" />
+
+
 
 
 <img width="1901" height="943" alt="Screenshot 2026-06-30 040334" src="https://github.com/user-attachments/assets/ec2bfb22-fa6f-48a0-b639-ebb37a71915c" />
