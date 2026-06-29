@@ -1,0 +1,16 @@
+# Build binaries
+pwnbox-starter
+pwnbox-starter.exe
+pwnbox-starter-*
+dist/
+
+# Drafts and scratch files
+01-overview.md
+02-features.md
+03-quality.md
+presentation_flow.md
+scratch.go
+
+# OS specific files
+.DS_Store
+Thumbs.db
