@@ -2,13 +2,17 @@
 
 > Pwnbox-Starter is a cross-platform Go CLI utility that automates CTF and penetration testing workflows. It instantly scaffolds organized workspace directories, auto-discovers OpenVPN profiles, launches predefined TMUX hacking environments, and generates interactive Markdown report templates. Perfect for HackTheBox, TryHackMe, and Bug Bounties.
 
-![Banner Screenshot](./banner.png) *(Upload your terminal banner screenshot here)*
+<img width="692" height="650" alt="Screenshot 2026-06-30 041626" src="https://github.com/user-attachments/assets/d824de6c-a1ae-46a0-8845-3f7f9e3511b3" />
 
-![Interactive Setup Screenshot](./setup.png) *(Upload your interactive setup screenshot here)*
 
-![Report & VPN Screenshot](./report.png) *(Upload your VPN/Report screenshot here)*
+<img width="717" height="516" alt="Screenshot 2026-06-30 042255" src="https://github.com/user-attachments/assets/ceb758cb-c4be-4381-9085-ede4be8c672c" />
 
-![Final Workspace Setup](./workspace.png) *(Upload your final workspace/summary screenshot here)*
+
+<img width="1905" height="747" alt="Screenshot 2026-06-30 040319" src="https://github.com/user-attachments/assets/48826f59-95c1-4a4f-bacc-c4fcbe4729a6" />
+
+
+<img width="1901" height="943" alt="Screenshot 2026-06-30 040334" src="https://github.com/user-attachments/assets/c9b28990-0746-4a30-8c61-c683099648e3" />
+
 
 ---
 
@@ -22,7 +26,8 @@ Pwnbox-Starter was engineered out of the developer's pure necessity—and constr
 
 ## Architecture & Flow
 
-<!-- PASTE YOUR MERMAID DIAGRAM IMAGE OR CODE HERE -->
+<img width="1453" height="8192" alt="Pwnbox Starter VPN Workflow-2026-06-29-201236" src="https://github.com/user-attachments/assets/a3b8229f-51c0-4462-b0a8-188a5df46795" />
+
 
 ---
 
